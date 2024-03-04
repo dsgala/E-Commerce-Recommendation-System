@@ -8,14 +8,10 @@ Approach: Employing an unsupervised learning strategy, I segmented customers usi
 
 Technical Highlights:
 
-Conducted detailed descriptive analysis to explore data characteristics, including mean, standard deviation, median, and distribution patterns.
-
-Developed and refined the dataset with descriptive labels to enhance data clarity and analysis readiness.
-
-Applied the SMART framework to define project objectives, ensuring specificity, measurability, achievability, relevance, and time-bound criteria.
-
-Implemented a K-Means clustering algorithm for customer segmentation, ensuring each segment was mutually exclusive and collectively exhaustive.
-
-Created synthetic sample data to illustrate how new transactions would be scored and assigned to a segment, demonstrating the engine's operational capability.
+- Conducted detailed descriptive analysis to explore data characteristics, including mean, standard deviation, median, and distribution patterns.
+- Developed and refined the dataset with descriptive labels to enhance data clarity and analysis readiness.
+- Applied the SMART framework to define project objectives, ensuring specificity, measurability, achievability, relevance, and time-bound criteria.
+- Implemented a K-Means clustering algorithm for customer segmentation, ensuring each segment was mutually exclusive and collectively exhaustive.
+- Created synthetic sample data to illustrate how new transactions would be scored and assigned to a segment, demonstrating the engine's operational capability.
 
 Results: The Recommendation Engine effectively segmented customers, enabling personalized suggestions that are anticipated to increase user engagement and sales. Presented with an economic analysis, the solution convincingly illustrates its potential to the CMO and Webmaster, advocating for its implementation.
